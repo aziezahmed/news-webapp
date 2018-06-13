@@ -27,7 +27,7 @@ export default {
   },
   data: function() {
     return {
-      API_KEY: "2ff80ad49a294ffc88827b9f0b47cb6c",
+      API_KEY: "",
       source: "bbc-news",
       sourceName: "BBC News",
       sources: [],
